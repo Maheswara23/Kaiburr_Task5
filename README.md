@@ -67,7 +67,7 @@ Per assessment requirements, the following screenshots demonstrating successful 
 **NOTE:** Ensure all screenshots contain a visible **date/time stamp** and your **name/username**.
 
 ### 1. Importing All Modules
-![Class Distribution Plot](screenshots/Screenshot 2025-09-28 at 15.55.59.png)
+![Class Distribution Plot](screenshots/Screenshot2025-09-28at15.55.59.png)
 
 ### 1. Data Distribution Visualization (EDA)
 ![Class Distribution Plot](screenshots/class_distribution.png)
